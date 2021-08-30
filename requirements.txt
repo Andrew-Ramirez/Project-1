@@ -1,0 +1,2 @@
+numpy v1.16.5
+scipy v1.3.1
